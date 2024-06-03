@@ -1,4 +1,4 @@
-# The CROWler DOcker Support
+# The CROWler Docker Support
 
 This repository contains the Dockerfile and the necessary files to build a Docker image for the CROWler tool.
 
